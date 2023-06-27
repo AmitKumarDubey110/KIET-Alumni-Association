@@ -1,5 +1,23 @@
 # KIET-Alumni-Association
 
+Project details:-
+Thanks for Visiting this repository!
+
+Project Name : KIET-Alumni-Association
+
+Project URL : https://github.com/AmitKumarDubey110/KIET-Alumni-Association
+
+Group Members : Amit Kumar Dubey, Aman Sinha, Mukul Deep, and Anand Kumar Gupta
+
+Project Supervisor : Shashank Bhardwaj Sir
+
+Purpose : Live Project
+
+Department : MCA
+
+Collage : KIET Group of Institutions, Ghaziabad, Uttar Pradesh
+
+Descriptions:-
 This is a website which is used to make the intraction between the KIET students and the KIET Alumni Students to have the key knowledge 
 about the latest experiences and strugles in the company.
 
